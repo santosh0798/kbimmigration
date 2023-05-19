@@ -23,8 +23,8 @@ var THEMEMASCOT = {};
       }
     }
   };
-	
-	
+
+
 	//Hide Loading Box (Preloader)
 	function handlePreloader() {
 		if($('.preloader').length){
