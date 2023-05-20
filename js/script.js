@@ -1,28 +1,8 @@
-var THEMEMASCOT = {};
+
 (function($) {
 
 	"use strict";
 
-
-  THEMEMASCOT.isRTL = {
-    check: function() {
-      if( $( "html" ).attr("dir") === "rtl" ) {
-        return true;
-      } else {
-        return false;
-      }
-    }
-  };
-
-  THEMEMASCOT.isLTR = {
-    check: function() {
-      if( $( "html" ).attr("dir") !== "rtl" ) {
-        return true;
-      } else {
-        return false;
-      }
-    }
-  };
 
 
 	//Hide Loading Box (Preloader)
@@ -103,7 +83,7 @@ var THEMEMASCOT = {};
 	//Banner Carousel
 	if ($('.banner-carousel').length) {
 		$('.banner-carousel').owlCarousel({
-			rtl: THEMEMASCOT.isRTL.check(),
+			
 			animateOut: 'fadeOut',
 		    animateIn: 'fadeIn',
 			loop:true,
@@ -132,7 +112,7 @@ var THEMEMASCOT = {};
 	//Training Carousel
 	if ($('.training-carousel').length) {
 		$('.training-carousel').owlCarousel({
-			rtl: THEMEMASCOT.isRTL.check(),
+			
 			loop: true,
 			margin: 30,
 			nav: false,
@@ -160,7 +140,7 @@ var THEMEMASCOT = {};
 	//Training CarouselTwo
 	if ($('.training-carousel-two').length) {
 		$('.training-carousel-two').owlCarousel({
-			rtl: THEMEMASCOT.isRTL.check(),
+			
 			loop: true,
 			margin: 30,
 			nav: false,
@@ -191,7 +171,7 @@ var THEMEMASCOT = {};
 	//Countries-carousel
 	if ($('.countries-carousel').length) {
 		$('.countries-carousel').owlCarousel({
-			rtl: THEMEMASCOT.isRTL.check(),
+			
 			loop: true,
 			margin: 10,
 			nav: false,
@@ -236,10 +216,7 @@ var THEMEMASCOT = {};
 				},
 				600: {
 					slidesPerView: 3,
-				},
-				600: {
-					slidesPerView: 3,
-				},
+				}
 			}
 		});
 
@@ -264,7 +241,7 @@ var THEMEMASCOT = {};
 	//Services Carousel
 	if ($('.services-carousel').length) {
 		$('.services-carousel').owlCarousel({
-			rtl: THEMEMASCOT.isRTL.check(),
+			
 			loop: true,
 			margin: 0,
 			nav: false,
@@ -289,7 +266,7 @@ var THEMEMASCOT = {};
 	// Testimonial Carousel
 	if ($('.testimonial-carousel').length) {
 		$('.testimonial-carousel').owlCarousel({
-			rtl: THEMEMASCOT.isRTL.check(),
+			
 			loop: true,
 			margin: 30,
 			nav: false,
@@ -375,7 +352,7 @@ var THEMEMASCOT = {};
 	//Clients Carousel
 	if ($('.clients-carousel').length) {
 		$('.clients-carousel').owlCarousel({
-			rtl: THEMEMASCOT.isRTL.check(),
+			
 			loop: true,
 			margin: 10,
 			nav: true,
@@ -405,33 +382,6 @@ var THEMEMASCOT = {};
 		});
 	}
 
-
-	//Gallery Carousel
-	if ($('.gallery-carousel').length) {
-		$('.gallery-carousel').owlCarousel({
-			rtl: THEMEMASCOT.isRTL.check(),
-			loop: true,
-			margin: 10,
-			nav: true,
-			smartSpeed: 400,
-			autoplay: true,
-			navText: ['<span class="flaticon-left"></span>', '<span class="flaticon-right"></span>'],
-			responsive: {
-				0: {
-					items: 1
-				},
-				600: {
-					items: 2
-				},
-				1023: {
-					items: 3
-				},
-				1200: {
-					items: 4
-				}
-			}
-		});
-	}
 
 
 	//Accordion Box

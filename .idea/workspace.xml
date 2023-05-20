@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="161a7221-d639-45b4-b2c2-5954b28350d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/resource/immigration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/resource/rcic.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/services/SERVICES-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/services/pr-card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/services/study-visa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CANADIAN-EXPERIENCE-CLASS.html" beforeDir="false" afterPath="$PROJECT_DIR$/canadian-experience-class.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CITIZENSHIP.html" beforeDir="false" afterPath="$PROJECT_DIR$/citizenship.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAMILY-CLASS-SPONSORSHIP.html" beforeDir="false" afterPath="$PROJECT_DIR$/family-class-sponsorship.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FEDERAL-SKILLED-TRADES.html" beforeDir="false" afterPath="$PROJECT_DIR$/federal-skilled-trades.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FEDERAL-SKILLED-WORKERS.html" beforeDir="false" afterPath="$PROJECT_DIR$/federal-skilled-workers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LMIA-WORK-PERMIT.html" beforeDir="false" afterPath="$PROJECT_DIR$/lmia-work-permit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PR-card.html" beforeDir="false" afterPath="$PROJECT_DIR$/pr-card.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spousal-Sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/spousal-sponsorship.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style5.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-entry.html" beforeDir="false" afterPath="$PROJECT_DIR$/express-entry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parents-grandparents-sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/parents-grandparents-sponsorship.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provincial-nominee-programs.html" beforeDir="false" afterPath="$PROJECT_DIR$/provincial-nominee-programs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student.html" beforeDir="false" afterPath="$PROJECT_DIR$/student.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q10Q2m4SlJfTgV5FLv7Umw7KVf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/dell/Desktop/kbimmigration/images/services",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/services" />
+      <recent name="$PROJECT_DIR$/images/resource" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="161a7221-d639-45b4-b2c2-5954b28350d5" name="Changes" comment="" />
+      <created>1684505760980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684505760980</updated>
+      <workItem from="1684505762128" duration="2209000" />
+      <workItem from="1684569109480" duration="14495000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,3 +1,4 @@
+
 .ch-item {
 	width: 100%;
 	height: 100%;
@@ -61,16 +62,16 @@
 }
 
 .ch-img-1 {
-	background-image: url(../images/resource/service-1.jpg);
+	background-image: url(../images/services/SERVICES-1.png);
 cursor: pointer;
 }
 
 .ch-img-2 { 
-	background-image: url(../images/resource/service-2.jpg);
+	background-image: url(../images/services/SERVICES-1.png);
 }
 
 .ch-img-3 { 
-	background-image: url(../images/resource/service-3.jpg);
+	background-image: url(../images/services/SERVICES-1.png);
 }
 .ch-info .title {
 	color: #000;
