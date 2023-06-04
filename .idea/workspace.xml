@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="161a7221-d639-45b4-b2c2-5954b28350d5" name="Changes" comment="" />
+    <list default="true" id="161a7221-d639-45b4-b2c2-5954b28350d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/resource/about-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/resource/about-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student.html" beforeDir="false" afterPath="$PROJECT_DIR$/student.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -30,10 +38,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/dell/Desktop/kbimmigration/images/services",
+    "last_opened_file_path": "/home/priyankapadhi/Downloads/vehr",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -58,7 +67,12 @@
       <option name="presentableId" value="Default" />
       <updated>1684505760980</updated>
       <workItem from="1684505762128" duration="2209000" />
-      <workItem from="1684569109480" duration="15714000" />
+      <workItem from="1684569109480" duration="19415000" />
+      <workItem from="1684826036755" duration="1260000" />
+      <workItem from="1684859768059" duration="1523000" />
+      <workItem from="1684913948230" duration="1399000" />
+      <workItem from="1685167436501" duration="2808000" />
+      <workItem from="1685433817651" duration="252000" />
     </task>
     <servers />
   </component>
