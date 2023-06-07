@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="161a7221-d639-45b4-b2c2-5954b28350d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/resource/about-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/resource/about-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student.html" beforeDir="false" afterPath="$PROJECT_DIR$/student.html" afterDir="false" />
-    </list>
+    <list default="true" id="161a7221-d639-45b4-b2c2-5954b28350d5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/priyankapadhi/Downloads/vehr",
+    "last_opened_file_path": "C:/Users/ganes/Downloads/kbimmigration-master/kbimmigration-master",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -54,6 +47,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ganes\Downloads\kbimmigration-master\kbimmigration-master" />
+      <recent name="C:\Users\ganes\Downloads\kbimmigration-master\kbimmigration-master\images\background" />
       <recent name="$PROJECT_DIR$/images/services" />
       <recent name="$PROJECT_DIR$/images/resource" />
     </key>
@@ -73,6 +68,13 @@
       <workItem from="1684913948230" duration="1399000" />
       <workItem from="1685167436501" duration="2808000" />
       <workItem from="1685433817651" duration="252000" />
+      <workItem from="1685872851467" duration="7233000" />
+      <workItem from="1685975364651" duration="1649000" />
+      <workItem from="1685977803512" duration="9457000" />
+      <workItem from="1686042168216" duration="54000" />
+      <workItem from="1686048836798" duration="8213000" />
+      <workItem from="1686116930833" duration="165000" />
+      <workItem from="1686132833119" duration="932000" />
     </task>
     <servers />
   </component>

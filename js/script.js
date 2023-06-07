@@ -167,6 +167,41 @@
 		});
 	}
 
+//Service-carousel
+	if ($('.service-carousel').length) {
+		$('.service-carousel').owlCarousel({
+
+			loop: true,
+			margin: 75,
+			nav: false,
+			smartSpeed: 500,
+			autoHeight: true,
+			autoplay: true,
+			autoplayTimeout: 2500,
+			navText: ['<span class="fa fa-long-arrow-alt-left"></span>', '<span class="fa fa-long-arrow-alt-right"></span>'],
+			responsive: {
+				0: {
+					items: 1
+				},
+				380: {
+					items: 2,
+				},
+				600: {
+					items: 3,
+				},
+				991: {
+					items: 4
+				},
+				1200: {
+					items: 5
+				},
+				1400: {
+					items: 6
+				},
+			}
+		});
+	}
+
 
 	//Countries-carousel
 	if ($('.countries-carousel').length) {
