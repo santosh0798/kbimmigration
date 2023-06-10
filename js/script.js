@@ -69,15 +69,6 @@
 
 	}
 
-	//Header Search
-	if($('.search-btn').length) {
-		$('.search-btn').on('click', function() {
-			$('.main-header').addClass('moblie-search-active');
-		});
-		$('.close-search, .search-back-drop').on('click', function() {
-			$('.main-header').removeClass('moblie-search-active');
-		});
-	}
 
 
 	//Banner Carousel
@@ -172,7 +163,7 @@
 		$('.service-carousel').owlCarousel({
 
 			loop: true,
-			margin: 75,
+			margin: 120,
 			nav: false,
 			smartSpeed: 500,
 			autoHeight: true,
@@ -191,13 +182,7 @@
 				},
 				991: {
 					items: 4
-				},
-				1200: {
-					items: 5
-				},
-				1400: {
-					items: 6
-				},
+				}
 			}
 		});
 	}
@@ -213,7 +198,7 @@
 			smartSpeed: 500,
 			autoHeight: true,
 			autoplay: true,
-			autoplayTimeout: 10000,
+			autoplayTimeout: 1000,
 			navText: ['<span class="fa fa-long-arrow-alt-left"></span>', '<span class="fa fa-long-arrow-alt-right"></span>'],
 			responsive: {
 				0: {
