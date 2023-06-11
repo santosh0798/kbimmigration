@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="161a7221-d639-45b4-b2c2-5954b28350d5" name="Changes" comment="" />
+    <list default="true" id="161a7221-d639-45b4-b2c2-5954b28350d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canadian-experience-class.html" beforeDir="false" afterPath="$PROJECT_DIR$/canadian-experience-class.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express-entry.html" beforeDir="false" afterPath="$PROJECT_DIR$/express-entry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/federal-skilled-trades.html" beforeDir="false" afterPath="$PROJECT_DIR$/federal-skilled-trades.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/federal-skilled-workers.html" beforeDir="false" afterPath="$PROJECT_DIR$/federal-skilled-workers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parents-grandparents-sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/parents-grandparents-sponsorship.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provincial-nominee-programs.html" beforeDir="false" afterPath="$PROJECT_DIR$/provincial-nominee-programs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spousal-sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/spousal-sponsorship.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super-visa.html" beforeDir="false" afterPath="$PROJECT_DIR$/super-visa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visitor-visa.html" beforeDir="false" afterPath="$PROJECT_DIR$/visitor-visa.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +46,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ganes/Downloads/kbimmigration-master/kbimmigration-master/images/icons&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ganes/OneDrive/Desktop/kbimmigration/images&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -47,11 +59,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ganes\OneDrive\Desktop\kbimmigration\images" />
       <recent name="C:\Users\ganes\Downloads\kbimmigration-master\kbimmigration-master\images\icons" />
       <recent name="C:\Users\ganes\Downloads\kbimmigration-master\kbimmigration-master\images" />
       <recent name="C:\Users\ganes\Downloads\kbimmigration-master\kbimmigration-master\images\resource" />
       <recent name="C:\Users\ganes\Downloads\kbimmigration-master\kbimmigration-master" />
-      <recent name="C:\Users\ganes\Downloads\kbimmigration-master\kbimmigration-master\images\services" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -81,6 +93,11 @@
       <workItem from="1686387376551" duration="353000" />
       <workItem from="1686395490589" duration="7605000" />
       <workItem from="1686424687135" duration="4093000" />
+      <workItem from="1686469159177" duration="1208000" />
+      <workItem from="1686476784126" duration="11000" />
+      <workItem from="1686483822640" duration="2661000" />
+      <workItem from="1686504977557" duration="3088000" />
+      <workItem from="1686512345859" duration="1392000" />
     </task>
     <servers />
   </component>
