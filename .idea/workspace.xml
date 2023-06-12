@@ -5,46 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="161a7221-d639-45b4-b2c2-5954b28350d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canadian-experience-class.html" beforeDir="false" afterPath="$PROJECT_DIR$/canadian-experience-class.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/citizenship.html" beforeDir="false" afterPath="$PROJECT_DIR$/citizenship.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-entry.html" beforeDir="false" afterPath="$PROJECT_DIR$/express-entry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/family-class-sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/family-class-sponsorship.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/federal-skilled-trades.html" beforeDir="false" afterPath="$PROJECT_DIR$/federal-skilled-trades.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/federal-skilled-workers.html" beforeDir="false" afterPath="$PROJECT_DIR$/federal-skilled-workers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/flaticon_visa6cd5.html" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/flaticon_visa6cd5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/free-assesment-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/free-assesment-form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/SERVICES-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/express-entry.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/pr-card.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/pr-services.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/spousal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/student-service.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/study-visa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/visa-services.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/immigration-appeals.html" beforeDir="false" afterPath="$PROJECT_DIR$/immigration-appeals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lmia-work-permit.html" beforeDir="false" afterPath="$PROJECT_DIR$/lmia-work-permit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parents-grandparents-sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/parents-grandparents-sponsorship.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/permanent-residence-travel-document.html" beforeDir="false" afterPath="$PROJECT_DIR$/permanent-residence-travel-document.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/revolution/js/jquery.themepunch.revolution.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/revolution/js/jquery.themepunch.revolution.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pr-card.html" beforeDir="false" afterPath="$PROJECT_DIR$/pr-card.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provincial-nominee-programs.html" beforeDir="false" afterPath="$PROJECT_DIR$/provincial-nominee-programs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/refugee-cases.html" beforeDir="false" afterPath="$PROJECT_DIR$/refugee-cases.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/refusals.html" beforeDir="false" afterPath="$PROJECT_DIR$/refusals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/removal-orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/removal-orders.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restoration-of-status.html" beforeDir="false" afterPath="$PROJECT_DIR$/restoration-of-status.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spousal-sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/spousal-sponsorship.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-changing-institution.html" beforeDir="false" afterPath="$PROJECT_DIR$/student-changing-institution.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-open-work-permit.html" beforeDir="false" afterPath="$PROJECT_DIR$/student-open-work-permit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-parent’s-visitor-visa.html" beforeDir="false" afterPath="$PROJECT_DIR$/student-parent’s-visitor-visa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-post-graduate-work-permit.html" beforeDir="false" afterPath="$PROJECT_DIR$/student-post-graduate-work-permit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-study-permit.html" beforeDir="false" afterPath="$PROJECT_DIR$/student-study-permit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student.html" beforeDir="false" afterPath="$PROJECT_DIR$/student.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-visa.html" beforeDir="false" afterPath="$PROJECT_DIR$/super-visa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visitor-visa.html" beforeDir="false" afterPath="$PROJECT_DIR$/visitor-visa.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +89,7 @@
       <workItem from="1686483822640" duration="2661000" />
       <workItem from="1686504977557" duration="3088000" />
       <workItem from="1686512345859" duration="3052000" />
-      <workItem from="1686552331740" duration="9494000" />
+      <workItem from="1686552331740" duration="10312000" />
     </task>
     <servers />
   </component>
