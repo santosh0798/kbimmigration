@@ -40,7 +40,7 @@
 	</script>
 	<script >
 		(function(){
-			emailjs.init("i4H7Gsw9hYBTpcoUT");
+			emailjs.init("lcgQcfPit04Cz-NV6");
 		})();
 	</script>
 
@@ -345,7 +345,7 @@
         <div class="bg bg-pattern-7"></div>
         <div class="auto-container">
             <div class="footer-upper" style="margin-top: 20px">
-                <div class="logo-box"><img src="images/white-logo.webp" alt="" width="80px"></div>
+                <div class="logo-box"><img src="images/white-logo.svg" alt="" width="80px"></div>
                 <ul class="contact-info">
                     <li>
                         <i class="icon fa fa-phone-square" style="color: #fafafa"></i>
@@ -545,9 +545,14 @@
 			mobile : document.getElementById("mobile").value,
 			message : document.getElementById("message").value
 		}
-		emailjs.send("service_ff6haf5","template_2wmrm72", params).then(function (res){
-			alert("Thanks For Contacting!");
-		})
+
+
+
+        emailjs.send("service_au27ywk","template_vpqq7lu", params).then(function(response) {
+            console.log('SUCCESS!', response.status, response.text);
+        }, function(error) {
+            console.log('FAILED...', error);
+        });
 	}
 </script>
 </body>
