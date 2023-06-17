@@ -8974,7 +8974,7 @@ Page Title
 }
 
 @media only screen and (max-width: 767px) {
-    #pnp-header h1, h2, h3, h4 {
+    #pnp-header h1, h2, h3, h4, h5, h6 {
         font-size: 25px;
     }
 }
