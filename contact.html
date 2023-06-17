@@ -254,7 +254,7 @@
 	<section class="contact-details">
 		<div class="container ">
 			<div class="row">
-				<div class="col-xl-7 col-lg-6">
+				<div class="col-xl-7 col-lg-6" id="contactForm">
 					<div class="sec-title">
 						<span class="sub-title">Send us email</span>
 						<h2>Feel free to write</h2>
@@ -549,9 +549,12 @@
 
 
         emailjs.send("service_au27ywk","template_vpqq7lu", params).then(function(response) {
+            alert("Thanks For Contacting!")
             console.log('SUCCESS!', response.status, response.text);
+            document.getElementById("contactForm").reset();
         }, function(error) {
             console.log('FAILED...', error);
+            document.getElementById("contactForm").reset();
         });
 	}
 </script>
