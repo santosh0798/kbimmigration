@@ -5,40 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="161a7221-d639-45b4-b2c2-5954b28350d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/kb-logo-main.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canadian-experience-class.html" beforeDir="false" afterPath="$PROJECT_DIR$/canadian-experience-class.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/citizenship.html" beforeDir="false" afterPath="$PROJECT_DIR$/citizenship.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-entry.html" beforeDir="false" afterPath="$PROJECT_DIR$/express-entry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/family-class-sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/family-class-sponsorship.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/federal-skilled-trades.html" beforeDir="false" afterPath="$PROJECT_DIR$/federal-skilled-trades.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/federal-skilled-workers.html" beforeDir="false" afterPath="$PROJECT_DIR$/federal-skilled-workers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/free-assesment-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/free-assesment-form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kb-logo-main.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kb-logo-main.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kb-logo-white.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kb-logo-white.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/immigration-appeals.html" beforeDir="false" afterPath="$PROJECT_DIR$/immigration-appeals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lmia-work-permit.html" beforeDir="false" afterPath="$PROJECT_DIR$/lmia-work-permit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parents-grandparents-sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/parents-grandparents-sponsorship.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/permanent-residence-travel-document.html" beforeDir="false" afterPath="$PROJECT_DIR$/permanent-residence-travel-document.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pr-card.html" beforeDir="false" afterPath="$PROJECT_DIR$/pr-card.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provincial-nominee-programs.html" beforeDir="false" afterPath="$PROJECT_DIR$/provincial-nominee-programs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/refugee-cases.html" beforeDir="false" afterPath="$PROJECT_DIR$/refugee-cases.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/refusals.html" beforeDir="false" afterPath="$PROJECT_DIR$/refusals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/removal-orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/removal-orders.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restoration-of-status.html" beforeDir="false" afterPath="$PROJECT_DIR$/restoration-of-status.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spousal-sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/spousal-sponsorship.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-changing-institution.html" beforeDir="false" afterPath="$PROJECT_DIR$/student-changing-institution.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-open-work-permit.html" beforeDir="false" afterPath="$PROJECT_DIR$/student-open-work-permit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-parent’s-visitor-visa.html" beforeDir="false" afterPath="$PROJECT_DIR$/student-parent’s-visitor-visa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-post-graduate-work-permit.html" beforeDir="false" afterPath="$PROJECT_DIR$/student-post-graduate-work-permit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-study-permit.html" beforeDir="false" afterPath="$PROJECT_DIR$/student-study-permit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student.html" beforeDir="false" afterPath="$PROJECT_DIR$/student.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-visa.html" beforeDir="false" afterPath="$PROJECT_DIR$/super-visa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visitor-visa.html" beforeDir="false" afterPath="$PROJECT_DIR$/visitor-visa.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,23 +31,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/dell/Music/kbimmigration/images&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/dell/Music/kbimmigration/images",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
@@ -131,7 +98,8 @@
       <workItem from="1686933929050" duration="11348000" />
       <workItem from="1686981808730" duration="5480000" />
       <workItem from="1686999052351" duration="3159000" />
-      <workItem from="1687011074936" duration="1874000" />
+      <workItem from="1687011074936" duration="2082000" />
+      <workItem from="1687031833633" duration="880000" />
     </task>
     <servers />
   </component>
