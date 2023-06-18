@@ -6,29 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="161a7221-d639-45b4-b2c2-5954b28350d5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canadian-experience-class.html" beforeDir="false" afterPath="$PROJECT_DIR$/canadian-experience-class.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/citizenship.html" beforeDir="false" afterPath="$PROJECT_DIR$/citizenship.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-entry.html" beforeDir="false" afterPath="$PROJECT_DIR$/express-entry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/family-class-sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/family-class-sponsorship.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/federal-skilled-trades.html" beforeDir="false" afterPath="$PROJECT_DIR$/federal-skilled-trades.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/federal-skilled-workers.html" beforeDir="false" afterPath="$PROJECT_DIR$/federal-skilled-workers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/immigration-appeals.html" beforeDir="false" afterPath="$PROJECT_DIR$/immigration-appeals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lmia-work-permit.html" beforeDir="false" afterPath="$PROJECT_DIR$/lmia-work-permit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parents-grandparents-sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/parents-grandparents-sponsorship.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-assesment-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/free-assesment-form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/permanent-residence-travel-document.html" beforeDir="false" afterPath="$PROJECT_DIR$/permanent-residence-travel-document.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pr-card.html" beforeDir="false" afterPath="$PROJECT_DIR$/pr-card.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/provincial-nominee-programs.html" beforeDir="false" afterPath="$PROJECT_DIR$/provincial-nominee-programs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/refugee-cases.html" beforeDir="false" afterPath="$PROJECT_DIR$/refugee-cases.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/refusals.html" beforeDir="false" afterPath="$PROJECT_DIR$/refusals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/removal-orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/removal-orders.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restoration-of-status.html" beforeDir="false" afterPath="$PROJECT_DIR$/restoration-of-status.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spousal-sponsorship.html" beforeDir="false" afterPath="$PROJECT_DIR$/spousal-sponsorship.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-changing-institution.html" beforeDir="false" afterPath="$PROJECT_DIR$/student-changing-institution.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-post-graduate-work-permit.html" beforeDir="false" afterPath="$PROJECT_DIR$/student-post-graduate-work-permit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-study-permit.html" beforeDir="false" afterPath="$PROJECT_DIR$/student-study-permit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student.html" beforeDir="false" afterPath="$PROJECT_DIR$/student.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-visa.html" beforeDir="false" afterPath="$PROJECT_DIR$/super-visa.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +103,9 @@
       <workItem from="1686981808730" duration="5480000" />
       <workItem from="1686999052351" duration="3159000" />
       <workItem from="1687011074936" duration="2082000" />
-      <workItem from="1687031833633" duration="1573000" />
+      <workItem from="1687031833633" duration="1939000" />
+      <workItem from="1687096982124" duration="2724000" />
+      <workItem from="1687112148246" duration="3381000" />
     </task>
     <servers />
   </component>

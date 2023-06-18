@@ -21,8 +21,8 @@
 	<!-- REVOLUTION NAVIGATION STYLES -->
 	<link href="css/style.css" rel="stylesheet">
 
-	<link rel="shortcut icon" href="images/favicon.webp" type="image/x-icon">
-	<link rel="icon" href="images/favicon.webp" type="image/x-icon">
+	<link rel="shortcut icon" href="images/kb-logo-main.png" type="image/x-icon">
+	<link rel="icon" href="images/kb-logo-main.png" type="image/x-icon">
 
 	<!-- Responsive -->
 
@@ -260,7 +260,7 @@
 						<h2>Feel free to write</h2>
 					</div>
 					<!-- Contact Form -->
-                    <form action="https://formsubmit.co/santoshpadhi1616@gmail.com" method="POST">
+
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="mb-3">
@@ -289,9 +289,9 @@
                             <textarea name="form_message" id="message" class="form-control required" rows="7" placeholder="Enter Message"></textarea>
                         </div>
                         <div class="mb-3">
-                            <button type="submit" class="theme-btn btn-style-one"><span class="btn-title">Send message</span></button>
+                            <button type="submit" onclick="SendMail()" class="theme-btn btn-style-one"><span class="btn-title">Send message</span></button>
                         </div>
-                    </form>
+
 
 
 					<!-- Contact Form Validation-->
@@ -450,14 +450,14 @@
                             <h6 class="widget-title">Newsletter</h6>
                             <div class="subscribe-form">
                                 <div class="text">Signup for our latest news & articles.</div>
-                                <form method="post" action="#">
+
                                     <div class="form-group">
-                                        <input type="email" name="email" class="email" value=""
+                                        <input type="email" name="email" id="email_newsletter" class="email" value=""
                                                placeholder="Email Address" required="">
-                                        <button type="button" class="theme-btn"><i class="fa fa-paper-plane"></i>
+                                        <button type="submit" onclick="sendNewsletter()"  class="theme-btn"><i class="fa fa-paper-plane"></i>
                                         </button>
                                     </div>
-                                </form>
+
                             </div>
 
 
@@ -550,15 +550,51 @@
 
 
 
-        emailjs.send("service_au27ywk","template_vpqq7lu", params).then(function(response) {
-            alert("Thanks For Contacting!")
-            console.log('SUCCESS!', response.status, response.text);
-            document.getElementById("contactForm").reset();
+        emailjs.send("service_64hqwd3","template_vpqq7lu", params).then(function(response) {
+
+            setTimeout(function() {
+                displayAlert("success", "Form submitted successfully!");
+            }, 2000);
+
         }, function(error) {
             console.log('FAILED...', error);
-            document.getElementById("contactForm").reset();
         });
+
+        function displayAlert(type, message) {
+            var alertDiv = document.createElement("div");
+            alertDiv.className = "alert alert-" + type;
+            alertDiv.innerHTML = message;
+
+            var container = document.querySelector(".container");
+            container.insertBefore(alertDiv, container.firstChild);
+
+            setTimeout(function() {
+                alertDiv.remove();
+                location.reload()
+            }, 2000); // Remove the alert after 2 seconds
+        }
 	}
+
+    // function sendNewsletter(message){
+    //     var params ={
+    //         email_newsletter : document.getElementById("email_newsletter").value
+    //     }
+    //     emailjs.send("service_64hqwd3","template_vpqq7lu", params).then(function(response) {
+    //         console.log("Newsletter Successfully Subscribe")
+    //
+    //     }, function(error) {
+    //         console.log('FAILED...', error);
+    //     });
+    //
+    //     // Show Bootstrap alert
+    //     var alertHtml = '<div class="alert alert-success alert-dismissible fade show" role="alert">Thank you for subscribing!</div>';
+    //     $(alertHtml).insertBefore(email_newsletter);
+    //
+    //     // Clear the email input
+    //     email_newsletter.value = '';
+    // }
+
+
 </script>
 </body>
 
