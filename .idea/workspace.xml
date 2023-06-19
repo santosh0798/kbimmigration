@@ -8,8 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/free-assesment-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/free-assesment-form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/permanent-residence-travel-document.html" beforeDir="false" afterPath="$PROJECT_DIR$/permanent-residence-travel-document.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provincial-nominee-programs.html" beforeDir="false" afterPath="$PROJECT_DIR$/provincial-nominee-programs.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/dell/Music/kbimmigration/images",
+    "last_opened_file_path": "/home/dell/Music/kbimmigration",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -105,7 +103,9 @@
       <workItem from="1687011074936" duration="2082000" />
       <workItem from="1687031833633" duration="1939000" />
       <workItem from="1687096982124" duration="2724000" />
-      <workItem from="1687112148246" duration="3381000" />
+      <workItem from="1687112148246" duration="4898000" />
+      <workItem from="1687157126957" duration="9000" />
+      <workItem from="1687193396729" duration="12564000" />
     </task>
     <servers />
   </component>

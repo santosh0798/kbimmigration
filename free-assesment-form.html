@@ -24,13 +24,21 @@
     <!--[if lt IE 9]>
     <script src="js/respond.js"></script><![endif]-->
 
+    <!-- Include SweetAlert2 CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.min.css">
+
+    <!-- Include jQuery library -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- Include SweetAlert2 JS -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.min.js"></script>
 
     <script
             src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
     </script>
     <script>
         (function () {
-            emailjs.init("lcgQcfPit04Cz-NV6");
+            emailjs.init("nOQqNuqvwYxldmCgm");
         })();
     </script>
 
@@ -256,6 +264,8 @@
                 touch with you, extending their professional assistance and personalized support.
             </p>
 
+
+
                 <div class="col-xl-12 col-lg-6 border" style="margin-bottom:20px">
                     <div style="margin: 25px">
                         <div class="sec-title">
@@ -320,7 +330,7 @@
                     <!-- Contact Form Validation-->
                 </div>
 
-            <!-- Educational Qualifications Form Validation-->
+                <!-- Educational Qualifications Form Validation-->
 
                 <div class="col-xl-12 col-lg-6 border" style="margin-bottom:20px">
                     <div style="margin: 25px">
@@ -337,21 +347,21 @@
                             <div class="col-sm-3">
                                 <div class="mb-3">
                                     <label for="" style="color:black;margin-bottom:15px">Writing:</label>
-                                    <input name="language_proficiency" id="english_writing" class="form-control"
+                                    <input name="language_proficiency" id="english_writing" class="form-control proficiency-field"
                                            required type="text" placeholder="Enter Writing Proficiency">
                                 </div>
                             </div>
                             <div class="col-sm-3">
                                 <div class="mb-3">
                                     <label for="" style="color:black;margin-bottom:15px">Reading:</label>
-                                    <input name="language_proficiency" id="english_reading" class="form-control"
+                                    <input name="language_proficiency" id="english_reading" class="form-control proficiency-field"
                                            required type="text" placeholder="Enter Reading Proficiency">
                                 </div>
                             </div>
                             <div class="col-sm-3">
                                 <div class="mb-3">
                                     <label for="" style="color:black;margin-bottom:15px">Speaking:</label>
-                                    <input name="language_proficiency" id="english_speaking" class="form-control"
+                                    <input name="language_proficiency" id="english_speaking" class="form-control proficiency-field"
                                            required type="text" placeholder="Enter Speaking Proficiency">
                                 </div>
                             </div>
@@ -359,7 +369,7 @@
                             <div class="col-sm-3">
                                 <div class="mb-3">
                                     <label for="" style="color:black;margin-bottom:15px">Listening:</label>
-                                    <input name="language_proficiency" id="english_listening" class="form-control"
+                                    <input name="language_proficiency" id="english_listening" class="form-control proficiency-field"
                                            required type="text" placeholder="Enter Listening Proficiency">
                                 </div>
                             </div>
@@ -369,21 +379,21 @@
                             <div class="col-sm-3">
                                 <div class="mb-3">
                                     <label for="" style="color:black;margin-bottom:15px">Writing:</label>
-                                    <input name="language_proficiency" id="french_writing" class="form-control"
+                                    <input name="language_proficiency" id="french_writing" class="form-control proficiency-field"
                                            required type="text" placeholder="Enter Writing Proficiency">
                                 </div>
                             </div>
                             <div class="col-sm-3">
                                 <div class="mb-3">
                                     <label for="" style="color:black;margin-bottom:15px">Reading:</label>
-                                    <input name="language_proficiency" id="french_reading" class="form-control"
+                                    <input name="language_proficiency" id="french_reading" class="form-control proficiency-field"
                                            required type="text" placeholder="Enter Reading Proficiency">
                                 </div>
                             </div>
                             <div class="col-sm-3">
                                 <div class="mb-3">
                                     <label for="" style="color:black;margin-bottom:15px">Speaking:</label>
-                                    <input name="language_proficiency" id="french_speaking" class="form-control"
+                                    <input name="language_proficiency" id="french_speaking" class="form-control proficiency-field"
                                            required type="text" placeholder="Enter Speaking Proficiency">
                                 </div>
                             </div>
@@ -391,7 +401,7 @@
                             <div class="col-sm-3">
                                 <div class="mb-3">
                                     <label for="" style="color:black;margin-bottom:15px">Listening:</label>
-                                    <input name="language_proficiency" id="french_listening" class="form-control"
+                                    <input name="language_proficiency" id="french_listening" class="form-control proficiency-field"
                                            required type="text" placeholder="Enter Listening Proficiency">
                                 </div>
                             </div>
@@ -431,8 +441,7 @@
                 </div>
 
 
-
-            <!-- Assessment Criteria Form Validation-->
+                <!-- Assessment Criteria Form Validation-->
                 <div class="col-xl-12 col-lg-6 border" style="margin-bottom:20px">
                     <div style="margin: 25px">
                         <div class="sec-title" style="margin-top: 30px" ;>
@@ -472,7 +481,8 @@
                             <div class="col-sm-6">
                                 <div class="mb-3">
                                     <label for="" style="color:black;margin-bottom:15px">Education:</label>
-                                    <select class="form-select form-control" aria-label="Default select label" id="education">
+                                    <select class="form-select form-control" aria-label="Default select label"
+                                            id="education">
                                         <option selected>Please select the highest level of education you have achieved
                                         </option>
                                         <option value="Secondary Education">Secondary Education</option>
@@ -487,7 +497,8 @@
                             <div class="col-sm-6">
                                 <div class="mb-3">
                                     <label for="" style="color:black;margin-bottom:15px">Work Experience:</label>
-                                    <select class="form-select form-control" aria-label="Default select label" id="work_experience">
+                                    <select class="form-select form-control" aria-label="Default select label"
+                                            id="work_experience">
                                         <option selected>Please select one of the following options:</option>
                                         <option value="I have at least one year of relevant work experience in Canada.">
                                             I
@@ -546,9 +557,11 @@
                 </div>
 
                 <div class="mb-3">
-                    <button type="submit" onclick="SendMail()" class="theme-btn btn-style-one" style="float: right">
+                    <button type="submit" onclick="validateForm()" class="theme-btn btn-style-one" style="float: right">
                         <span class="btn-title">Submit Form</span></button>
                 </div>
+
+
 
         </div>
     </section>
@@ -758,7 +771,159 @@
 <!-- form submit -->
 <script src="js/jquery.validate.min.js"></script>
 <script src="js/jquery.form.min.js"></script>
+
+
+
 <script>
+
+    // Function to validate if the input contains only text
+    function validateTextInput(input) {
+        var regex = /^[A-Za-z]+$/; // Only alphabets allowed
+        return regex.test(input);
+    }
+
+    function validateForm() {
+        // Personal Information
+        var fullName = document.getElementById("from_name").value;
+        var address = document.getElementById("address").value;
+        var contactDetails = document.getElementById("contact").value;
+        var age = document.getElementById("age").value;
+        var nationality = document.getElementById("nationality").value;
+        var maritalStatus = document.getElementById("marital_status").value;
+
+        // Educational Qualifications
+        var englishWriting = document.getElementById("english_writing").value;
+        var englishReading = document.getElementById("english_reading").value;
+        var englishSpeaking = document.getElementById("english_speaking").value;
+        var englishListening = document.getElementById("english_listening").value;
+        var frenchWriting = document.getElementById("french_writing").value;
+        var frenchReading = document.getElementById("french_reading").value;
+        var frenchSpeaking = document.getElementById("french_speaking").value;
+        var frenchListening = document.getElementById("french_listening").value;
+        var occupation = document.getElementById("occupation").value;
+        var yearsExperience = document.getElementById("years_experience").value;
+        var jobDescription = document.getElementById("job_description").value;
+
+        // Assessment Criteria
+        var languageProficiency = document.getElementById("language_proficiency").value;
+        var education = document.getElementById("education").value;
+        var workExperience = document.getElementById("work_experience").value;
+        var criteriaAge = document.getElementById("criteria_age").value;
+        var adaptability = document.getElementById("adaptability").value;
+
+        // Error messages
+        var errorMessage = "";
+
+        // Personal Information Validation
+        if (fullName === "") {
+            errorMessage += "Full Name is required.\n";
+        }
+        if (address === "") {
+            errorMessage += "Address is required.\n";
+        }
+        if (contactDetails === "") {
+            errorMessage += "Contact Details are required.\n";
+        }
+        if (age === "") {
+            errorMessage += "Age is required.\n";
+        }
+        if (nationality === "") {
+            errorMessage += "Nationality is required.\n";
+        }
+        if (maritalStatus === "") {
+            errorMessage += "Marital Status is required.\n";
+        }
+
+        // Educational Qualifications Validation
+        if (englishWriting === "") {
+            errorMessage += "English Writing Proficiency is required.\n";
+        } else if (!validateTextInput(englishWriting)) {
+            errorMessage += "English Writing Proficiency should contain only text.\n";
+        }
+
+        if (englishReading === "") {
+            errorMessage += "English Reading Proficiency is required.\n";
+        } else if (!validateTextInput(englishReading)) {
+            errorMessage += "English Reading Proficiency should contain only text.\n";
+        }
+
+        if (englishSpeaking === "") {
+            errorMessage += "English Speaking Proficiency is required.\n";
+        } else if (!validateTextInput(englishSpeaking)) {
+            errorMessage += "English Speaking Proficiency should contain only text.\n";
+        }
+
+        if (englishListening === "") {
+            errorMessage += "English Listening Proficiency is required.\n";
+        } else if (!validateTextInput(englishListening)) {
+            errorMessage += "English Listening Proficiency should contain only text.\n";
+        }
+
+        if (frenchWriting === "") {
+            errorMessage += "French Writing Proficiency is required.\n";
+        } else if (!validateTextInput(frenchWriting)) {
+            errorMessage += "French Writing Proficiency should contain only text.\n";
+        }
+
+        if (frenchReading === "") {
+            errorMessage += "French Reading Proficiency is required.\n";
+        } else if (!validateTextInput(frenchReading)) {
+            errorMessage += "French Reading Proficiency should contain only text.\n";
+        }
+
+        if (frenchSpeaking === "") {
+            errorMessage += "French Speaking Proficiency is required.\n";
+        } else if (!validateTextInput(frenchSpeaking)) {
+            errorMessage += "French Speaking Proficiency should contain only text.\n";
+        }
+
+        if (frenchListening === "") {
+            errorMessage += "French Listening Proficiency is required.\n";
+        } else if (!validateTextInput(frenchListening)) {
+            errorMessage += "French Listening Proficiency should contain only text.\n";
+        }
+        if (occupation === "") {
+            errorMessage += "Occupation is required.\n";
+        }
+        if (yearsExperience === "") {
+            errorMessage += "Years of Experience is required.\n";
+        }
+        if (jobDescription === "") {
+            errorMessage += "Job Description is required.\n";
+        }
+
+        // Assessment Criteria Validation
+        if (languageProficiency === "") {
+            errorMessage += "Language Proficiency is required.\n";
+        }
+        if (education === "") {
+            errorMessage += "Education is required.\n";
+        }
+        if (workExperience === "") {
+            errorMessage += "Work Experience is required.\n";
+        }
+        if (criteriaAge === "") {
+            errorMessage += "Age Criteria is required.\n";
+        }
+        if (adaptability === "") {
+            errorMessage += "Adaptability is required.\n";
+        }
+
+        if (errorMessage !== "") {
+            alert("Please fix the following errors:\n\n" + errorMessage);
+            return false;
+        }
+
+        // All fields are valid, call SendMail() function
+        SendMail();
+    }
+
+    function handleSubmit(event) {
+        event.preventDefault();
+        validateForm();
+    }
+
+
     function SendMail(message) {
         var params = {
             from_name: document.getElementById("from_name").value,
@@ -790,30 +955,28 @@
 
         }
         emailjs.send("service_64hqwd3", "template_7mzm49m", params).then(function(response) {
-            setTimeout(function() {
-                displayAlert("success", "Form submitted successfully!");
+            Swal.fire({
+                icon: 'success',
+                title: 'Thank You!',
+                text: 'Your responses have been successfully recorded.!',
+            });
+            setTimeout(function () {
+                location.reload();
             }, 2000);
+
         }, function(error) {
-            alert("Something went wrong...Please Try Again!");
             console.log('FAILED...', error);
+            Swal.fire({
+                icon: 'error',
+                title: 'Oops...',
+                text: JSON.stringify(error),
+            });
         });
 
-        function displayAlert(type, message) {
-            var alertDiv = document.createElement("div");
-            alertDiv.className = "alert alert-" + type;
-            alertDiv.innerHTML = message;
-
-            var container = document.querySelector(".container");
-            container.insertBefore(alertDiv, container.firstChild);
-
-            setTimeout(function() {
-                alertDiv.remove();
-                location.reload()
-            }, 2000); // Remove the alert after 2 seconds
-        }
-
     }
+
 </script>
+
 </body>
 
 </html>
