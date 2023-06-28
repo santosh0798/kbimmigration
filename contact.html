@@ -231,7 +231,7 @@
                     </li>
                     <li><a href="https://www.instagram.com/kbimmigrationinc"><i class="fab fa-instagram"></i></a></li>
                     <li><a href="https://www.tiktok.com/@kb_immigration_inc"><i class="fab fa-tiktok"></i></a></li>
-                    <li><a href="https://www.linkedin.com/in/kb-immigration-inc-1062831a9"><i
+                    <li><a href="https://www.linkedin.com/company/kb-immigration-inc/"><i
                             class="fab fa-linkedin"></i></a></li>
                 </ul>
             </nav>
@@ -279,46 +279,46 @@
                     </div>
                     <!-- Contact Form -->
 
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <div class="mb-3">
-                                    <input name="form_name" id="from_name" class="form-control" type="text"
-                                           placeholder="Enter Name" required>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="mb-3">
-                                    <input name="form_email" id="email_id" class="form-control  email" type="email"
-                                           placeholder="Enter Email" required>
-
-                                </div>
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="mb-3">
+                                <input name="form_name" id="from_name" class="form-control" type="text"
+                                       placeholder="Enter Name" required>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <div class="mb-3">
-                                    <input name="form_subject" id="subject" class="form-control" type="text"
-                                           placeholder="Enter Subject" required>
+                        <div class="col-sm-6">
+                            <div class="mb-3">
+                                <input name="form_email" id="email_id" class="form-control  email" type="email"
+                                       placeholder="Enter Email" required>
 
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="mb-3">
-                                    <input name="form_phone" id="mobile" class="form-control" type="text"
-                                           placeholder="+1(547)111 2222" required>
-
-                                </div>
                             </div>
                         </div>
-                        <div class="mb-3">
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="mb-3">
+                                <input name="form_subject" id="subject" class="form-control" type="text"
+                                       placeholder="Enter Subject" required>
+
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="mb-3">
+                                <input name="form_phone" id="mobile" class="form-control" type="text"
+                                       placeholder="+1(234)-567-8900" required>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mb-3">
                             <textarea name="form_message" id="message" class="form-control" rows="7"
                                       placeholder="Enter Message" required></textarea>
 
-                        </div>
-                        <div class="mb-3">
-                            <button type="submit" onclick="validateForm()" class="theme-btn btn-style-one"><span
-                                    class="btn-title">Send message</span></button>
-                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <button type="submit" onclick="validateForm()" class="theme-btn btn-style-one"><span
+                                class="btn-title">Send message</span></button>
+                    </div>
 
                     <!-- Contact Form Validation-->
                 </div>
@@ -331,15 +331,28 @@
                                 Get in touch with KB Immigration Inc for expert Canada immigration services. Contact our
                                 experienced consultants for personalized guidance and support.
                             </div>
+                            <div class="sidebar-widget service-sidebar-single">
+                                <div class="service-sidebar wow">
+                                    <div class="service-list">
+                                        <ul>
+                                            <li><a href="free-assesment-form.html" class="current"
+                                                   style="background-color: #d90429;margin-top: 20px;width: 100%;text-align: center">
+                                                <span style="margin-left: -50px">Get your Free Assessment</span></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                         <ul class="list-unstyled contact-details__info">
+
                             <li>
                                 <div class="icon bg-theme-color2">
                                     <span class="lnr-icon-phone-plus"></span>
                                 </div>
                                 <div class="text">
                                     <h6>Have any question?</h6>
-                                    <a href="tel:+14372307823"><span>Free</span> +1 437.230.7823</a>
+                                    <a href="tel:+14372307823"> +1 (437)-230-7823</a>
                                 </div>
                             </li>
                             <li>
@@ -360,6 +373,7 @@
                                     <span>Brampton, ON, L6T 3T2</span>
                                 </div>
                             </li>
+
                         </ul>
                     </div>
                 </div>
@@ -499,7 +513,7 @@
                                         class="fab fa-instagram"></i></a></li>
                                 <li><a href="https://www.tiktok.com/@kb_immigration_inc"><i
                                         class="fab fa-tiktok"></i></a></li>
-                                <li><a href="https://www.linkedin.com/in/kb-immigration-inc-1062831a9"><i
+                                <li><a href="https://www.linkedin.com/company/kb-immigration-inc/"><i
                                         class="fab fa-linkedin"></i></a></li>
 
                             </ul>
@@ -569,8 +583,6 @@
 <script src="js/swiper.min.js"></script>
 <script src="js/owl.js"></script>
 <script src="js/script.js"></script>
-
-
 
 
 <!--<script>-->
@@ -667,28 +679,27 @@
     // Function to send the email
     function SendMail() {
         // Code to send the email goes here
-        var params ={
-            from_name : document.getElementById("from_name").value,
-            email_id : document.getElementById("email_id").value,
-            subject : document.getElementById("subject").value,
-            mobile : document.getElementById("mobile").value,
-            message : document.getElementById("message").value
+        var params = {
+            from_name: document.getElementById("from_name").value,
+            email_id: document.getElementById("email_id").value,
+            subject: document.getElementById("subject").value,
+            mobile: document.getElementById("mobile").value,
+            message: document.getElementById("message").value
         }
 
 
-
-        emailjs.send("service_64hqwd3","template_vpqq7lu", params).then(function(response) {
+        emailjs.send("service_64hqwd3", "template_vpqq7lu", params).then(function (response) {
 
             Swal.fire({
                 icon: 'success',
-                title: 'Success',
-                text: 'Thanks For Contacting!',
+                title: 'Thanks For Contacting!',
+                text: 'Someone from our team will reach out to you within 1-2 business days on the provided contact information.',
             });
             setTimeout(function () {
                 location.href = location.href;
             }, 2000);
 
-        }, function(error) {
+        }, function (error) {
             console.log('FAILED...', error);
             Swal.fire({
                 icon: 'error',
